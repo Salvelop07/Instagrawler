@@ -1,6 +1,6 @@
-# Instagram Scrapy Scraper
+# Instagrawler
 
-> Some scrapy spiders useful to crawl instagram posts using public APIS (No TOKEN)
+> Instagrawler is a scrapy spider which can easily crawl Instagram posts using public APIs without needing a token! 📸✨
 
 ## Requirements
 - Python
